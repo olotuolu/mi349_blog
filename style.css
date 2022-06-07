@@ -5,7 +5,7 @@ HTML{
 }
 body{
     font-family:Arial, Helvetica, sans-serif;
-    background-color: (#ffffff);
+    background: (#ffffff);
     padding: 40px;
     border-top: 10px solid #242424;
     margin: 30px;
