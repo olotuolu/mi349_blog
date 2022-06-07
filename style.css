@@ -1,15 +1,20 @@
 HTML{
-    margin: 70px;
+    margin: 45px;
+    background-color: darkgray;
 
 }
 body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: (#E7E7E7);
+    padding: 40px;
+    border-top: 10px solid #242424;
+    margin: 30px;
 
 }
 p{
     line-height: 1.5em;
 }
 h1{
-    line-height: 3.5em;
+    font-size: 3em;
+    margin: 0;
 }
