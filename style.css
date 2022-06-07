@@ -1,11 +1,10 @@
 HTML{
     margin: 45px;
-    background-color: darkgray;
 
 }
 body{
     font-family:Arial, Helvetica, sans-serif;
-    background: (#ffffff);
+    background: (#b4b4b4);
     padding: 40px;
     border-top: 10px solid #242424;
     margin: 30px;
