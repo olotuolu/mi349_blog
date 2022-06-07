@@ -16,3 +16,6 @@ h1{
     font-size: 3em;
     margin: 0;
 }
+article{
+    border-top: 5px dotted #fff;
+}
