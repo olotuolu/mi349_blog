@@ -2,6 +2,7 @@ html{
     background: white;
 }
 body{
-    background: lightgray;
+    background: rgb(231, 231, 231);
     margin: 5ex;
+    font-family: 'Times New Roman', Times, serif;
 }
