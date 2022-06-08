@@ -31,7 +31,7 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
-table{
+table tr th{
     text-align: center;
     border: 3.6px solid black;
 }
