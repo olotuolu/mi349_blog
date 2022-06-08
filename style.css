@@ -15,4 +15,5 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 }
 article{
     border-top:2px dotted rgba(0, 0, 0, 0.405);
+    background: whitesmoke;
 }
