@@ -7,8 +7,9 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 #blog-heading{
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: x-large;
 }
 .writen-article{
     color: rgb(66, 66, 66);
