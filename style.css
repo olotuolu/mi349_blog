@@ -31,7 +31,15 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
-table tr th{
+table{
+    text-align: center;
+    border: 3.6px solid black;
+}
+th{
+    text-align: center;
+    border: 3.6px solid black;
+}
+td{
     text-align: center;
     border: 3.6px solid black;
 }
