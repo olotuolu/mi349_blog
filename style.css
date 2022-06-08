@@ -13,3 +13,6 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 .writen-article{
     color: rgb(66, 66, 66);
 }
+article{
+    margin-top:5px dotted black;
+}
