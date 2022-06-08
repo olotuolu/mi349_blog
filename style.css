@@ -2,11 +2,14 @@ html{
     background: white;
 }
 body{
-    background: rgb(231, 231, 231);
+    background: rgb(236, 236, 236);
     margin: 5ex;
     font-family: 'Times New Roman', Times, serif;
 }
 #blog-heading{
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
+}
+.writen-article{
+    color: rgb(66, 66, 66);
 }
