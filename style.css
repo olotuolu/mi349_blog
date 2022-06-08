@@ -22,6 +22,6 @@ h2{
     color: black;
     font-weight: bold;
 }
-p:first-line{
-    margin-left: 3px;
+p{
+    margin: 10px;
 }
