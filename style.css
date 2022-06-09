@@ -52,3 +52,7 @@ section{
     display: flex;
     flex-direction: column;
 }
+img{
+    float: right;
+    margin: 10px;
+}
