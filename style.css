@@ -44,6 +44,6 @@ td{
     border: 3.6px solid black;
 }.search-bar{
     position: sticky;
-    top: 25px;
+    top: 10px;
     left: 40%;
 }
