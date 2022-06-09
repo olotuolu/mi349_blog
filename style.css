@@ -42,4 +42,7 @@ th{
 td{
     text-align: center;
     border: 3.6px solid black;
+}.search-bar{
+    position: sticky;
+    text-align: center;
 }
