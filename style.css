@@ -58,7 +58,7 @@ article img{
     margin: 10px;
 }
 @media (max-width: 400px) {
-    body{
-        background-image: rgb(156, 218, 218);
+    .search-bar{
+        position: static;
     }
 }
