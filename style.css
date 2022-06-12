@@ -60,5 +60,7 @@ article img{
 @media (max-width: 400px) {
     .search-bar{
         position: static;
+        top: 0
+        teft: 0
     }
 }
