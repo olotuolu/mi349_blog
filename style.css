@@ -57,11 +57,13 @@ article img{
     float: right;
     margin: 10px;
 }
-@media (max-width: 1000px) {
+@media (max-width: 400px) {
     html{
         background: black;
     }
     .search-bar{
         position: static;
+        top: 10px;
+        left: 40%;
     }
 }
