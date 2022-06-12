@@ -57,7 +57,7 @@ article img{
     float: right;
     margin: 10px;
 }
-@media (max-width: 400px) {
+@media (max-width: 1000px) {
     html{
         background: black;
     }
